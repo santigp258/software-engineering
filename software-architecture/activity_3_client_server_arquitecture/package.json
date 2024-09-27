@@ -1,0 +1,19 @@
+{
+  "name": "activity-3-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.ts",
+  "scripts": {
+    "client": "npx ts-node client.ts",
+    "server": "npx ts-node server.ts"
+  },
+  "author": "santigp258",
+  "license": "ISC",
+  "packageManager": "yarn@4.5.0",
+  "dependencies": {
+    "@types/node": "^22.7.4",
+    "net": "^1.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
