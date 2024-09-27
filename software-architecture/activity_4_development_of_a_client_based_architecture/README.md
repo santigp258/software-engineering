@@ -38,6 +38,10 @@ While currently limited to basic conversation, this setup can be expanded to inc
 - **Client-Server Model**: The **client** handles the user interface and chat log, while the **server** processes incoming messages and provides appropriate responses. This ensures the system can be easily expanded to include more sophisticated functionality.
 - **Next.js API Routes**: The server-side logic is implemented using **Next.js API routes**, offering a clean and efficient way to manage requests and responses.
 
+
+### Demo
+
+![Chat Application Demo](./images/chat.png)
 ---
 
 ## Installation and Setup
