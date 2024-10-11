@@ -77,6 +77,11 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running.
 
+# Demo 
+
+![Chat Application Demo](./images/chat.png)
+
+
 ## How it Works
 
 - **Frontend**: Users interact with the chatbot interface in the browser, sending their questions via a simple text
