@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export",
+    "generate-activity-2": "cd activity-2-habilidades-innovadores-de-lideres-de-negocio && npx slidev export --format pdf"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "@slidev/theme-shibainu": "^0.0.2"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.48.2"
+  }
+}
